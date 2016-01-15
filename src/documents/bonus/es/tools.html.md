@@ -7,7 +7,7 @@ title: Herramientas de diagnóstico: tus mejores amigas
   <img id="geek-43" src="https://browserdiet.com/assets/img/43.png" alt="Geek #43" width="157" height="275" />
 </div>
 
-Si quieres aventurarte en este mundo, es imprescindible insalar la extension [YSlow](http://yslow.org/) en tu navegador *Chrome* o *Firefox*. Ellas serán tus mejores amigas a partir de ese momento.
+Si quieres aventurarte en este mundo, es imprescindible instalar la extension [YSlow](http://yslow.org/) en tu navegador *Chrome* o *Firefox*. Ellas serán tus mejores amigas a partir de ese momento.
 
 O si prefieres herramientas online, visite [WebPageTest](http://www.webpagetest.org/), [HTTP Archive](http://httparchive.org/) o [PageSpeed](https://developers.google.com/speed/pagespeed/insights/).
 
